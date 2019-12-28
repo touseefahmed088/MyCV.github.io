@@ -7,7 +7,7 @@
 <body>
 <body bgcolor="#00FFFF">
 <center>
-<image src="abc.png"/>
+<image src="abc.png" alt="image" height=150 width=120/>
 </table>
 <h3>Personal Info</h3>
 <table>
