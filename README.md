@@ -123,7 +123,6 @@
 
 <image src="abcd.jpeg" alt="image" height="300" width="270"/>
 
-
 </center>
 </body>
 </html>
